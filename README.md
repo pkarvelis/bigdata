@@ -1,5 +1,3 @@
-# bigdata
-Big Data
-
+# Big Data
 
 Linear Regression
